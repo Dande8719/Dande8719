@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Daniel Lema.
 
-I am an Industrial engineer (electrical) with a Master’s degree in renewable energy. I reinforced my education with an internship in the innovation campus of the Aston university (Birmingham) and also in the innovation campus of 3M (Minnesota mining and manufacturing)(Madrid).
+I am an Industrial engineer (electrical) with a Master’s Degree in Renewable Energy. I reinforced my education with an internship in the innovation campus of the Aston university (Birmingham) and also in the innovation campus of 3M (Minnesota mining and manufacturing)(Madrid).
 My professional experience in focused on energy facilities such as thermal and electrical facilities.
 
 
