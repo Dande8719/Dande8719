@@ -1,15 +1,14 @@
 ### Hi there 👋 my name is Daniel Lema.
 
-I am an Industrial engineer (electrical) with a Master’s Degree in Renewable Energy. I reinforced my education with an internship in the innovation campus of the Aston university (Birmingham) and also in the innovation campus of 3M (Minnesota mining and manufacturing)(Madrid).
-My professional experience in focused on energy facilities such as thermal and electrical facilities.
+I am an industrial engineer (electrical) with a Master’s Degree in Renewable Energy. I reinforced my education with an internship at the innovation campus of Aston University (Birmingham) and also at the innovation campus of 3M (Minnesota Mining and Manufacturing) (Madrid).
+My professional experience has focused on energy facilities, such as thermal and electrical facilities.
 
 
-- 🔭 I’m currently working on my path to be a data Scientist
+- 🔭 I’m currently working on my path to becoming a data scientist.
 - 🌱 I’m currently learning Data Science in Hack Boss School
-- 👯 I’m looking to collaborate on proyects whit data and energy
+- 👯 I’m looking to collaborate on projects with data and energy.
 - 🤔 I’m looking for help with Python and SQL
-- 💬 Ask me about Energy and idustrial stuff
+- 💬 Ask me about energy and industrial stuff.
 - 📫 How to reach me: dani.lema.martinez@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: A lot of them but I just tell the with a beer in front of me
-
+- ⚡ Fun fact: A lot of them, but I will tell you with a beer in front of me.
